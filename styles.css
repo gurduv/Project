@@ -59,5 +59,6 @@ aside {
 }
 
 #eventsArticle {
+    min-width: 200px;
     background-color: rgba(59, 53, 53, 0.2);
 }
